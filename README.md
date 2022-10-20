@@ -56,6 +56,7 @@ Oleh karena itu, kemampuan memosisikan ruang kelas dalam peta dapat membantu mah
 Selain itu, kemampuan mahasiswa memasukkan ruangan yang telah mereka temukan di suatu situs publik, bukan hanya ruang kelas atau teman,
 akan membuka sumber informasi yang signifikan mengenai lokasi kampus.
 
+## Tujuan
 
 ## Cara Kerja
 
